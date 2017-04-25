@@ -1,6 +1,6 @@
 # npmdoc-color-thief
 
-#### api documentation for  color-thief (v2.2.2)  [![npm package](https://img.shields.io/npm/v/npmdoc-color-thief.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-color-thief) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-color-thief.svg)](https://travis-ci.org/npmdoc/node-npmdoc-color-thief)
+#### basic api documentation for  color-thief (v2.2.2)  [![npm package](https://img.shields.io/npm/v/npmdoc-color-thief.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-color-thief) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-color-thief.svg)](https://travis-ci.org/npmdoc/node-npmdoc-color-thief)
 
 #### A script for grabbing the color palette from an image. Uses Javascript and the canvas tag to make it happen.
 
@@ -42,7 +42,8 @@
     },
     "devDependencies": {
         "nodeunit": "~0.8.2"
-    }
+    },
+    "bin": {}
 }
 ```
 
